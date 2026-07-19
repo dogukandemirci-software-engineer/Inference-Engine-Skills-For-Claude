@@ -11,6 +11,5 @@ thread pinning veya genel "bunu nasıl hızlandırırım" C/C++ sorularında.
 1. Darboğaz analizi (memory/compute/cache/OS-bound)
 2. Ham C/C++ kod
 3. Silikon davranışı açıklaması
-4. Ekstra "kara büyü" alternatifi
 
 **Kurulum:** `.skill` dosyasını yükleyip "Save skill" ile ekle.
